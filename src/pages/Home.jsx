@@ -33,8 +33,6 @@ const Home = () => {
     console.log(data);
   }
 
-  console.log(competitionData);
-
   return (
     <div className="flex flex-col gap-6 items-center align-middle">
       <div className="columns-3 gap-7">
